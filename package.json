@@ -1,7 +1,6 @@
 {
-  "name": "ai-avatar-generator",
-  "version": "0.2.0",
-  "private": true,
+  "name": "ai-avatar-starter",
+  "version": "0.2.1",
   "scripts": {
     "dev": "next dev",
     "build": "next build",
@@ -15,5 +14,16 @@
     "next": "13.0.6",
     "react": "18.2.0",
     "react-dom": "18.2.0"
-  }
+  },
+  "description": "### **Welcome 👋**",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xxm-wu/ai-avatar-starter.git"
+  },
+  "keywords": [
+    "ai", "avatar"
+  ],
+  "author": "xxm-wu",
+  "license": "ISC"
 }
