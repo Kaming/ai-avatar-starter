@@ -1,6 +1,6 @@
 {
   "name": "ai-avatar-starter",
-  "version": "0.2.1",
+  "version": "0.3.0",
   "scripts": {
     "dev": "next dev",
     "build": "next build",
@@ -25,5 +25,9 @@
     "ai", "avatar"
   ],
   "author": "xxm-wu",
-  "license": "ISC"
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/xxm-wu/ai-avatar-starter/issues"
+  },
+  "homepage": "https://github.com/xxm-wu/ai-avatar-starter#readme"
 }
